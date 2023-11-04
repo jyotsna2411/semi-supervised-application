@@ -42,4 +42,4 @@ For deeper insights into the study, please refer to the research paper titled "P
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/amphibian-survival-prediction.git
+   https://github.com/jyotsna2411/semi-supervised-application.git
